@@ -1,5 +1,7 @@
-### Hi there 👋 what's up ??
-
+# Hellooo Welcome To My Git Hub 👨🏾‍💻🚀
+ 
+Sooo
+My name is Pedro Vitor, currently I'm studing to be a software engineer, I have been working with progaming since 2020, yesss I'm just a Junior 
 
 
 - 🔭 I’m currently working in the development of a web-site / app for barber shops, using tecnologis like: HTML, CSS, JS, NODE-JS, REACT
