@@ -14,4 +14,4 @@ My name is Pedro Vitor, currently I'm studing to be a software engineer, I have 
 - ✨ About me: I love discovery new tecnologis, know how everthing works and why.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Jesus-6633cc?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pedro-jesus/)](https://www.linkedin.com/in/pedro-jesus-b6b6101ba/) 
-[![Gmail Badge](https://img.shields.io/badge/-pedrovitora.jesus@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=blue&link=mailto:pedrovitora.jesus@gmail.com)](mailto:pedrovitora.jesus@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedrovitora.jesus@gmail.com-style=flat-square&logo=Gmail&link=mailto:pedrovitora.jesus@gmail.com)](mailto:pedrovitora.jesus@gmail.com)
