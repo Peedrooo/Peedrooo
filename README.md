@@ -20,7 +20,7 @@ My name is Pedro Vitor😎, currently I'm studing 🎓 to be a software engineer
 ![Pedro Vitor Augusto de Jesus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peedrooo&text_color=DAA520&show_icons=true&bg_color=0D1117)
 <p>
 
-
+## Contact 📱<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Jesus-DAA520?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pedro-jesus/)](https://www.linkedin.com/in/pedro-jesus-b6b6101ba/) 
 
 [![Gmail Badge](https://img.shields.io/badge/-pedrovitora.jesus@gmail.com-DAA520?style=flat-square&logo=Gmail&link=mailto:pedrovitora.jesus@gmail.com)](mailto:pedrovitora.jesus@gmail.com)
