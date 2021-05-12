@@ -22,3 +22,8 @@ My name is Pedro Vitor😎, currently I'm studing 🎓 to be a software engineer
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Jesus-DAA520?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pedro-jesus/)](https://www.linkedin.com/in/pedro-jesus-b6b6101ba/) 
 
 [![Gmail Badge](https://img.shields.io/badge/-pedrovitora.jesus@gmail.com-DAA520?style=flat-square&logo=Gmail&link=mailto:pedrovitora.jesus@gmail.com)](mailto:pedrovitora.jesus@gmail.com)
+
+## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Peedrooo/count.svg" />
+ </p>
