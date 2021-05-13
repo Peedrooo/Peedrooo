@@ -17,13 +17,35 @@ My name is Pedro Vitor😎, currently I'm studing 🎓 to be a software engineer
 - ✨ About me: I love discovery new tecnologis, know how everthing works and why.
 <p>
 
-![Pedro Vitor Augusto de Jesus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peedrooo&text_color=DAA520&show_icons=true&bg_color=0D1117)
-<p>
+## Git info :octocat:	<br>
+
+<p align="center">
+<img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrooo&text_color=DAA520&show_icons=true&count_private=true&cache_seconds=1800&bg_color=0D1117"
+    />
+ </p>
+<p align="center">
+<img
+      src="https://github-readme-stats.vercel.app/api?username=Peedrooo&count_private=true&hide_totalstars&show_icons=true&cache_seconds=1800&custom_title=Github%20Status&text_color=DAA520&bg_color=0D1117"
+    />
+
+</p>
+
 
 ## Contact 📱<br>
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Jesus-DAA520?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pedro-jesus/)](https://www.linkedin.com/in/pedro-jesus-b6b6101ba/) 
-
-[![Gmail Badge](https://img.shields.io/badge/-pedrovitora.jesus@gmail.com-DAA520?style=flat-square&logo=Gmail&link=mailto:pedrovitora.jesus@gmail.com)](mailto:pedrovitora.jesus@gmail.com)
+<p align="center">
+    <a href="https://github.com/Peedrooo">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Peedrooo">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:pedrovitora.jesus@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrovitora.jesus@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/pedro-jesus-b6b6101ba">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedro-jesus-b6b6101ba/">
+    </a>
+</p>
 
 ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
