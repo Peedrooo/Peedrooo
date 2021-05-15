@@ -9,12 +9,12 @@ My name is Pedro Vitor😎, currently I'm studing 🎓 to be a software engineer
 - 🔬 Maybe seem too many technologies, but I want discovery a little about the programming universe🌌, before select an area 💡
 - 🔭 I’m currently working in the development of a web-site / app for barber shops, using tecnologis like: HTML, CSS, JS, NODE-JS, REACT
 - 🌱 I’m currently learning HTML, CSS, JS, React, Node-JS, Python, Pandas, MySQL, MongoDB, Java, English
-- 👯 I’m looking to collaborate on Web development, IA and Machine Learning
+- :busts_in_silhouette: I’m looking to collaborate on Web development, IA and Machine Learning
 - 🤔 I’m looking for help with data science 
 - 💬 Ask me about About technologies, i loooove talk about that...
-- 📫 How to reach me: wpp --> 62 995205598 email --> pedrovitora.jesus@gmail.com  
 - ⚡ Fun fact: Can copy, but don't make the same kkkkk : ) 
 - ✨ About me: I love discovery new tecnologis, know how everthing works and why.
+- :eyes: For that naughty talk call me on telegram or whatsapp: +55 62 995205598
 <p>
 
 ## Git info :octocat:	<br>
@@ -32,7 +32,7 @@ My name is Pedro Vitor😎, currently I'm studing 🎓 to be a software engineer
 </p>
 
 
-## Contact 📱<br>
+## Professional Contact 📱<br>
 <p align="center">
     <a href="https://github.com/Peedrooo">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Peedrooo">
