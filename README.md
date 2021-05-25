@@ -21,7 +21,7 @@ My name is Pedro Vitor😎, currently I'm studing 🎓 to be a software engineer
 
 <p align="center">
 <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrooo&text_color=DAA520&show_icons=true&exclude_repo=monitoria,DashEccomerce&count_private=true&bg_color=0D1117,layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrooo&text_color=DAA520&show_icons=true&exclude_repo=monitoria,DashEccomerce&count_private=true&bg_color=0D1117&layout=compact"
     />
  </p>
 <p align="center">
