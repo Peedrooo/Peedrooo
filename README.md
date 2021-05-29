@@ -51,3 +51,4 @@ My name is Pedro Vitor😎, currently I'm studing 🎓 to be a software engineer
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Peedrooo/count.svg" />
  </p>
+
