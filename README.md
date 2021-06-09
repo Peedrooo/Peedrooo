@@ -7,9 +7,8 @@ Sooo
 My name is Pedro Vitor😎, currently I'm studing 🎓 to be a software engineer 💻 at UnB (University of Brazilia), I have been working with progaming since 2020 and yesss I'm just a Junior 👨‍🎓 for a while 🧠
 
 - 🔬 Maybe seem too many technologies, but I want discovery a little about the programming universe🌌, before select an area 💡
-- 🔭 I’m currently working in the development of a web-site / app for barber shops, using tecnologis like: HTML, CSS, JS, NODE-JS, REACT
 - 🌱 I’m currently learning HTML, CSS, JS, React, Node-JS, Python, Pandas, MySQL, MongoDB, Java, English
-- :busts_in_silhouette: I’m looking to collaborate on Web development, IA and Machine Learning
+- :busts_in_silhouette: I’m looking to collaborate on IA and Machine Learning
 - 🤔 I’m looking for help with data science 
 - 💬 Ask me about About technologies, i loooove talk about that...
 - ⚡ Fun fact: Can copy, but don't make the same kkkkk : ) 
