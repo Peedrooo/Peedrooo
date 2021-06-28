@@ -4,7 +4,7 @@
 
 Sooo
 <p>
-My name is Pedro Vitor, currently I'm studing 🎓 to be a software engineer 💻 at UnB (University of Brazilia), I have been working with progaming since 2020 and yesss I'm just a Junior for a while 🧠
+My name is Pedro Vitor, currently I'm studing 🎓 to be a software engineer 💻 at UnB (University of Brazilia), I have been working with progaming since 2020 and yesss I'm just a Junior... for a while 🧠
 
 - 🔬 Maybe seem too many technologies, but I want discovery a little about the programming universe🌌, before select an area 💡
 - 🌱 I’m currently learning HTML, CSS, JS, React, Node-JS, Python, Pandas, MySQL, MongoDB, Java, English
@@ -19,12 +19,12 @@ My name is Pedro Vitor, currently I'm studing 🎓 to be a software engineer �
 
 <p align="center">
 <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrooo&text_color=DAA520&show_icons=true&exclude_repo=monitoria,DashEccomerce&count_private=true&bg_color=0D1117&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedrooo&text_color=FFFFFF&show_icons=true&exclude_repo=monitoria,DashEccomerce&count_private=true&bg_color=0D1117&layout=compact"
     />
  </p>
 <p align="center">
 <img
-      src="https://github-readme-stats.vercel.app/api?username=Peedrooo&count_private=true&show_icons=true&cache_seconds=86400&custom_title=Github%20Status&text_color=DAA520&bg_color=0D1117"
+      src="https://github-readme-stats.vercel.app/api?username=Peedrooo&count_private=true&show_icons=true&cache_seconds=86400&custom_title=Github%20Status&text_color=FFFFFF&bg_color=0D1117"
     />
 
 </p>
