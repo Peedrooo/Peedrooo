@@ -28,26 +28,26 @@ I have been working with progaming since 2020 🧠, about me:
 ## Professional Contact 📱<br>
 <p align="center">
     <a href="https://github.com/Peedrooo"> 
-        <img width="120em" height="36em" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&Color&link=mailto:https://github.com/Peedrooo">
+        <img width="110em" height="34em" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&Color&link=mailto:https://github.com/Peedrooo">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:pedrovitora.jesus@gmail.com">
-        <img width="120em" height="36em" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrovitora.jesus@gmail.com">
+        <img width="110em" height="34em" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrovitora.jesus@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/pedro-jesus-b6b6101ba">
-        <img width="135em" height="34em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedro-jesus-b6b6101ba/">
+        <img width="125em" height="30em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedro-jesus-b6b6101ba/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://api.whatsapp.com/send?phone=5562995205598">
-        <img width="135em" height="34em" src="https://img.shields.io/badge/whatsapp-%23100000.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=#34af23">
+        <img width="125em" height="30em" src="https://img.shields.io/badge/whatsapp-%23100000.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=#34af23">
     </a>
 
 </p>
 
 ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img width="300em" height="40em" alingn="center" src="https://profile-counter.glitch.me/Peedrooo/count.svg" />
+   <img width="250em" height="34em" alingn="center" src="https://profile-counter.glitch.me/Peedrooo/count.svg" />
  </p>
  
 ## Trying to feed the 🐍
