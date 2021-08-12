@@ -47,7 +47,7 @@ I have been working with progaming since 2020 🧠, about me:
 
 ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img width="250em" height="34em" alingn="center" src="https://profile-counter.glitch.me/Peedrooo/count.svg" />
+   <img width="240em" height="32em" alingn="center" src="https://profile-counter.glitch.me/Peedrooo/count.svg" />
  </p>
  
 ## Trying to feed the 🐍
