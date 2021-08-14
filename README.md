@@ -2,7 +2,7 @@
  
 ## What's up ? 👋🏿<br>
 
-Well
+Well...
 <p>
 My name is Pedro Vitor, currently I'm studing 🎓 to be a software engineer 💻 at UnB (University of Brazilia).
 I have been working with progaming since 2020 🧠, about me: 
