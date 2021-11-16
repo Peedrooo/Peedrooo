@@ -9,7 +9,7 @@ I have been working with progaming since 2020 🧠, about me:
 
 - 🔬 Maybe seem too many technologies, but I want discovery a little about the programming universe🌌, before select an area.
 - 🌱 I’m currently learning: Python, Pandas, Tensorflow, MySQL, MongoDB, Java and English.
-- 👨‍💼 Exactly now: studying the data base SQL.
+- 👨‍💼 Exactly now: studying the library Pandas.
 - :busts_in_silhouette: I’m looking to collaborate on IA and Machine Learning.
 - 🤔 I’m looking for help with data science.
 - ✨ About me: I love discovery new tecnologis, know how everthing works and why.
