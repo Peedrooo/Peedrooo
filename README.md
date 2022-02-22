@@ -36,7 +36,7 @@ I have been working with progaming since 2020 🧠, about me:
         <img width="100em" height="33em" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrovitora.jesus@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/pedro-jesus-b6b6101ba">
+    <a href="https://www.linkedin.com/in/pedro-jesus-2709/">
         <img width="125em" height="30em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedro-jesus-b6b6101ba/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
