@@ -4,15 +4,24 @@
 
 Well...
 <p>
-My name is Pedro Vitor, currently I'm studing to be a software engineer at UnB (University of Brazilia) 💻.
+My name is Pedro Vitor, currently I'm studing to be a software engineer at UnB (University of Brazilia) 👨‍🎓💻.
 I have been working with progaming since 2020 🧠, about me: 
 
-- 🔬 Maybe seem too many technologies, but I want discovery a little about the programming universe🌌, before select an area.
-- 🌱 I’m currently learning: Python, Pandas, Tensorflow, MySQL, MongoDB, Java and English.
-- 👨‍💼 Exactly now: studying Data Science.
-- :busts_in_silhouette: I’m looking to collaborate on IA and Machine Learning.
-- 🤔 I’m looking for help with data science.
-- ✨ About me: I love discovery new tecnologis, know how everthing works and why.
+- 🔬 Looking for knowledge in the IA, Deep Learning, web development and agile methodologies 
+- 👨‍💼 Exactly now: Working as backend developer at AILAB
+ 
+- 🌱 Currently learning the languages: Python, JavaScript, TypeScript, C and C++
+
+- 🤔 Hard study in the frameworks/librarys: 
+  * Pandas, Keras, Scikit-learn, Tensorflow
+  * ReactJS
+  * Flask, Django
+ 
+ - 🧪 Also studing data-bases and tests, like:
+   * MySQL, MongoDB
+   * Pytest
+
+- ✨ About me: I love discovery new technologies, know how everthing works and why. 
 
 
 ## Git info :octocat:	<br>
