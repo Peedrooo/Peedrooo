@@ -7,8 +7,8 @@ Well...
 My name is Pedro Vitor, currently I'm studing to be a software engineer at UnB (University of Brazilia) 👨‍🎓💻.
 I have been working with progaming since 2020 🧠, about me: 
 
-- 🔬 Looking for knowledge in the IA, Deep Learning, web development and agile methodologies 
-- 👨‍💼 Exactly now: Working as backend developer at AILAB
+- 🔬 Looking for knowledge in the AI, Deep Learning, web development and agile methodologies 
+- 👨‍💼 Exactly now: Working as AI researcher at AILAB
  
 - 🌱 Currently learning the languages: Python, JavaScript, TypeScript, C and C++
 
