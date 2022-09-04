@@ -1,30 +1,26 @@
 # Hellooo Welcome To My Git Hub 👨🏾‍💻🚀
- 
-## What's up ? 👋🏿<br>
+
+## What's up ? 👋🏿
 
 Well...
 <p>
 My name is Pedro Vitor, currently I'm studing to be a software engineer at UnB (University of Brazilia) 👨‍🎓💻.
-I have been working with progaming since 2020 🧠, about me: 
+I have been working with progaming since 2020 🧠, about me:
 
-- 🔬 Looking for knowledge in the AI, Deep Learning, web development and agile methodologies 
-- 👨‍💼 Exactly now: Working as AI researcher at AILAB
- 
-- 🌱 Currently learning the languages: Python, JavaScript, TypeScript, C and C++
+- 🔬 Looking for knowledge in the AI, web development, DevOps and agile methodologies
+- 👨‍💼 Exactly now: Working as Tech leader at AILAB
+- 🌱 Currently learning the languages: Python and C
+- 🤔 Hard study in the frameworks/librarys:
+  - Pandas, Keras, Scikit-learn, Tensorflow
+  - Flask, FastAPI, Django
+- 🧪 Also studing data-bases and tests, like:
+  - relational (MySQL, PostgreSQL)
+  - non-relational (MongoDB)
+  - Pytest
 
-- 🤔 Hard study in the frameworks/librarys: 
-  * Pandas, Keras, Scikit-learn, Tensorflow
-  * ReactJS
-  * Flask, Django
- 
- - 🧪 Also studing data-bases and tests, like:
-   * MySQL, MongoDB
-   * Pytest
+- ✨ About me: I love discovery new technologies, know how everthing works and why.
 
-- ✨ About me: I love discovery new technologies, know how everthing works and why. 
-
-
-## Git info :octocat:	<br>
+## Git info :octocat:
 
 <p align="center">
 <img height="180em"
@@ -34,10 +30,10 @@ I have been working with progaming since 2020 🧠, about me:
 
 </p>
 
+## Professional Contact 📱
 
-## Professional Contact 📱<br>
 <p align="center">
-    <a href="https://github.com/Peedrooo"> 
+    <a href="https://github.com/Peedrooo">
         <img width="100em" height="33em" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&Color&link=mailto:https://github.com/Peedrooo">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,11 +51,12 @@ I have been working with progaming since 2020 🧠, about me:
 
 </p>
 
-## Profile visits :detective: <br>
- <p align="center"> 
+## Profile visits :detective:
+
+ <p align="center">
    <img width="240em" height="32em" alingn="center" src="https://profile-counter.glitch.me/Peedrooo/count.svg" />
  </p>
- 
-## Trying to feed the 🐍
- ![Snake animation](https://github.com/Peedrooo/Peedrooo/blob/output/github-contribution-grid-snake.svg)
 
+## Trying to feed the 🐍
+
+ ![Snake animation](https://github.com/Peedrooo/Peedrooo/blob/output/github-contribution-grid-snake.svg)
