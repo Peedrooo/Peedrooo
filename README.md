@@ -8,10 +8,10 @@ My name is Pedro Vitor, currently I'm studing to be a software engineer at UnB (
 I have been working with progaming since 2020 🧠, about me:
 
 - 🔬 Looking for knowledge in the AI, web development, DevOps and agile methodologies
-- 👨‍💼 Exactly now: Working as Tech leader at AILAB
+- 👨‍💼 Exactly now: Working as AI Researcher at AILAB and Dellead
 - 🌱 Currently learning the languages: Python and C
 - 🤔 Hard study in the frameworks/librarys:
-  - Pandas, Keras, Scikit-learn, Tensorflow
+  - Pandas, Keras, Scikit-learn, Tensorflow, Yolo
   - Flask, FastAPI, Django
 - 🧪 Also studing data-bases and tests, like:
   - relational (MySQL, PostgreSQL)
