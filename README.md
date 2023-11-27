@@ -44,10 +44,6 @@ I have been working with progaming since 2020 🧠, about me:
     <a href="https://www.linkedin.com/in/pedro-jesus-2709/">
         <img width="125em" height="30em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedro-jesus-b6b6101ba/">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://api.whatsapp.com/send?phone=5562995205598">
-        <img width="125em" height="30em" src="https://img.shields.io/badge/whatsapp-%23100000.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=#34af23">
-    </a>
 
 </p>
 
