@@ -1,24 +1,24 @@
-# Hellooo Welcome To My Git Hub 👨🏾‍💻🚀
+# Welcome To My Git Hub 👨🏾‍💻🚀
 
 ## What's up ? 👋🏿
 
-Well...
 <p>
-My name is Pedro Vitor, currently I'm studing to be a software engineer at UnB (University of Brazilia) 👨‍🎓💻.
-I have been working with progaming since 2020 🧠, about me:
+My name is Pedro Vitor, currently I'm studing to be a software engineer at UnB (University of Brazilia).
+I have been working with progaming since 2020, and here's a bit about me:
 
-- 🔬 Looking for knowledge in the AI, web development, DevOps and agile methodologies
-- 👨‍💼 Exactly now: Working as AI Researcher at AILAB
-- 🌱 Currently learning the languages: Python
-- 🤔 Hard study in the frameworks/librarys:
-  - Pandas, Keras, Scikit-learn, Tensorflow, Yolo
-  - Flask, FastAPI, Django
+- 🔬 Looking for knowledge in the AI, web development, DevOps, MlOps and agile methodologies
+- 👨‍💼 Currently working as a mid-level AI Researcher.
+- 🤔 Proficient in several frameworks and libraries:
+  - Data Science and Machine Learning: Pandas, Keras, Scikit-learn, TensorFlow, YOLO, CUDA.
+  - Web Development: Flask, FastAPI, Django.
 - 🧪 Also studing data-bases and tests, like:
-  - relational (MySQL, PostgreSQL)
-  - non-relational (MongoDB)
-  - Pytest
+  - Relational: MySQL, PostgreSQL.
+  - Non-relational: MongoDB.
+  - Testing: Pytest.
 
 - ✨ About me: I love discovery new technologies, know how everthing works and why.
+
+Feel free to explore my repositories and projects. Let's connect and collaborate!
 
 ## Git info :octocat:
 
@@ -52,7 +52,3 @@ I have been working with progaming since 2020 🧠, about me:
  <p align="center">
    <img width="240em" height="32em" alingn="center" src="https://profile-counter.glitch.me/Peedrooo/count.svg" />
  </p>
-
-## Trying to feed the 🐍
-
- ![Snake animation](https://github.com/Peedrooo/Peedrooo/blob/output/github-contribution-grid-snake.svg)
