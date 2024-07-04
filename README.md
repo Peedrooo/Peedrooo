@@ -4,7 +4,7 @@
 
 <p>
 My name is Pedro Vitor, currently I'm studing to be a software engineer at UnB (University of Brazilia).
-I have been working with progaming since 2020, and here's a bit about me:
+I have been working with progaming since 2019, and here's a bit about me:
 
 - 🔬 Looking for knowledge in the AI, web development, DevOps, MlOps and agile methodologies
 - 👨‍💼 Currently working as a mid-level AI Researcher.
