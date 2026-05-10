@@ -3,20 +3,21 @@
 ## What's up ? 👋🏿
 
 <p>
-My name is Pedro Vitor, currently I'm studing to be a software engineer at UnB (University of Brazilia).
-I have been working with progaming since 2019, and here's a bit about me:
+My name is Pedro Vitor. I hold a Bachelor's in Software Engineering from UnB (University of Brasília) and I am currently pursuing a Master's degree in Applied Computing at UnB.
+I have been working with programming since 2019, and here's a bit about me:
 
-- 🔬 Looking for knowledge in the AI, web development, DevOps, MlOps and agile methodologies
-- 👨‍💼 Currently working as a mid-level AI Researcher.
+- 🔬 Looking for knowledge in AI, web development, Software Observability, SRE, DevOps, and agile methodologies.
+- 👨‍💼 Currently working as a Site Reliability Engineer (SRE) at Banco do Brasil.
 - 🤔 Proficient in several frameworks and libraries:
   - Data Science and Machine Learning: Pandas, Keras, Scikit-learn, TensorFlow, YOLO, CUDA.
   - Web Development: Flask, FastAPI, Django.
-- 🧪 Also studing data-bases and tests, like:
+- 🧪 Also studying databases, tests, and DevOps practices:
   - Relational: MySQL, PostgreSQL.
   - Non-relational: MongoDB.
   - Testing: Pytest.
+  - DevOps & Infra: Docker, Git, SRE practices.
 
-- ✨ About me: I love discovery new technologies, know how everthing works and why.
+- ✨ About me: I love discovering new technologies, knowing how everything works and why.
 
 Feel free to explore my repositories and projects. Let's connect and collaborate!
 
